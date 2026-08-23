@@ -1,4 +1,8 @@
-
+﻿<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="yethura-424\'s GitHub profile" src="dark_mode.svg" />
+</picture>
 # Hi 👋, I'm Ye Thura
 
 ## Web Developer
@@ -53,3 +57,4 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,arduino" /> </p>
 
 ---
+
